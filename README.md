@@ -61,7 +61,6 @@ Includes:
 - **KPIs**
   - Total Participaciones  
   - Personas Únicas  
-  - Pausas por Persona  
 
 - **Visuals**
   - Participation by Building  
