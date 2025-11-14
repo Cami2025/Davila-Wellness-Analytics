@@ -70,6 +70,44 @@ Includes:
 
 </div>
 
+davila-wellness-analytics/
+│
+├── src/
+│ └── pipeline_run.py
+│
+├── screenshots/
+│ ├── dashboard_overview.png
+│ ├── participaciones_edificio.png
+│ ├── participaciones_seccion.png
+│ └── tendencia_mensual.png
+│
+├── report/
+│ └── Davila_Wellness_Analytics.pdf
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+# 🧠 **Tech Stack**
+
+| Layer | Technology |
+|-------|------------|
+| Data Source | Google Sheets |
+| ETL | Python, Pandas, Gspread, Google Auth, Dotenv |
+| Visualization | Power BI |
+| Outputs | CSV, JSON, curated Google Sheet |
+| Automation | Windows Task Scheduler (next phase) |
+
+---
+
+# 🏃 **How to Run the ETL**
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/YOUR-USER/davila-wellness-analytics
+
 ---
 
 # 🗂️ **Repository Structure**
