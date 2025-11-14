@@ -4,7 +4,7 @@
 ### 🧠 Automated Data Pipeline & Power BI Executive Dashboard  
 *(Google Sheets → Python ETL → Power BI)*  
 
-<img src="screenshots/dashboard_overview.png" width="800">
+<img src="screenshots/dashboard.png" width="800">
 
 </div>
 
