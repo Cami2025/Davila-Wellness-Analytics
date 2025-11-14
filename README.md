@@ -26,19 +26,8 @@ You’ll find:
 # 🧩 **Architecture**
 
 <div align="center">
-  
-Google Sheets (Raw Data)
-↓
-Python ETL (Cleaning, Normalization, KPIs)
-↓
-Google Sheets (Asistencia_Limpia – curated)
-↓
-Power BI Dashboard (Executive View)
-
-
+  <img src="screenshots/architecture.png" width="600">
 </div>
-
----
 
 # ⚙️ **Key Features**
 
