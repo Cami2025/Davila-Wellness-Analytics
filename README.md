@@ -26,6 +26,7 @@ You’ll find:
 # 🧩 **Architecture**
 
 <div align="center">
+  
 Google Sheets (Raw Data)
 ↓
 Python ETL (Cleaning, Normalization, KPIs)
@@ -33,5 +34,56 @@ Python ETL (Cleaning, Normalization, KPIs)
 Google Sheets (Asistencia_Limpia – curated)
 ↓
 Power BI Dashboard (Executive View)
+
+
+</div>
+
+---
+
+# ⚙️ **Key Features**
+
+### 🧼 **1. Automated ETL Pipeline (Python)**
+- Connects to Google Sheets using **Service Account**  
+- Normalizes **RUT** formats (Chilean ID)  
+- Fixes messy text inputs (names, buildings, sections)  
+- Converts date formats  
+- Removes duplicates (`rut + fecha`)  
+- Generates derived fields (`anio`, `mes`, `dia`)  
+- Exports clean data as CSV and JSON  
+- Writes curated data back into a new Google Sheets tab: **Asistencia_Limpia**
+
+---
+
+### 📊 **2. Power BI Executive Dashboard**
+
+Includes:
+
+- **KPIs**
+  - Total Participaciones  
+  - Personas Únicas  
+  - Pausas por Persona  
+
+- **Visuals**
+  - Participation by Building  
+  - Top 10 Sections  
+  - Monthly Trend Line  
+  - Filter controls: Mes, Edificio, Sección, Género  
+
+- **Design**
+  - Custom color palette  
+  - Clínica Dávila branding  
+  - Clean, minimalist layout  
+
+<div align="center">
+
+<img src="screenshots/participaciones_edificio.png" width="700">
+<img src="screenshots/tendencia_mensual.png" width="700">
+
+</div>
+
+---
+
+# 🗂️ **Repository Structure**
+
 
 
