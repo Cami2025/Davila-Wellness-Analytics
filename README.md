@@ -70,25 +70,24 @@ Includes:
 
 </div>
 
-davila-wellness-analytics/
+```markdown
+📁 davila-wellness-analytics/
 │
-├── src/
-│ └── pipeline_run.py
+├── 📂 src/
+│   └── 🐍 pipeline_run.py
 │
-├── screenshots/
-│ ├── dashboard_overview.png
-│ ├── participaciones_edificio.png
-│ ├── participaciones_seccion.png
-│ └── tendencia_mensual.png
+├── 📂 screenshots/
+│   ├── 🖼️ dashboard.png
+│   ├── 🖼️ participaciones_edificio.png
+│   ├── 🖼️ participaciones_seccion.png
+│   └── 🖼️ tendencia_mensual.png
 │
-├── report/
-│ └── Davila_Wellness_Analytics.pdf
+├── 📂 report/
+│   └── 📄 Davila_Wellness_Analytics.pdf
 │
-├── requirements.txt
-└── README.md
+├── 📄 requirements.txt
+└── 📄 README.md
 
-
----
 
 # 🧠 **Tech Stack**
 
