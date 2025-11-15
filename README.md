@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌿 **Dávila Wellness Analytics**  
-### 🧠 Automated Data Pipeline & Power BI Executive Dashboard  
+# **Dávila Wellness Analytics**  
+### Automated Data Pipeline & Power BI Executive Dashboard  
 *(Google Sheets → Python ETL → Power BI)*  
 
 <img src="screenshots/dashboard.png" width="800">
