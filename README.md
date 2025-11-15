@@ -66,7 +66,10 @@ Includes:
 
 <img src="screenshots/participaciones_edificio.png" width="700">
 
+<img src="participaciones_seccion.png" width="700">
+
 <img src="screenshots/tendencia_mensual.png" width="700">
+
 
 </div>
 
