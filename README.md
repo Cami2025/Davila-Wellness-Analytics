@@ -23,7 +23,7 @@ You’ll find:
 
 ---
 
-# 🧩 **Architecture**
+# **Architecture**
 
 <div align="center">
   <img src="screenshots/architecture.png" width="600">
@@ -31,7 +31,7 @@ You’ll find:
 
 # ⚙️ **Key Features**
 
-### 🧼 **1. Automated ETL Pipeline (Python)**
+### **1. Automated ETL Pipeline (Python)**
 - Connects to Google Sheets using **Service Account**  
 - Normalizes **RUT** formats (Chilean ID)  
 - Fixes messy text inputs (names, buildings, sections)  
