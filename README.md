@@ -70,6 +70,8 @@ Includes:
 
 </div>
 
+# 🗂️ **Repository Structure**
+
 ```markdown
 📁 davila-wellness-analytics/
 │
@@ -109,7 +111,7 @@ git clone https://github.com/YOUR-USER/davila-wellness-analytics
 
 ---
 
-# 🗂️ **Repository Structure**
+
 
 
 
