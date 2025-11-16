@@ -10,7 +10,7 @@
 
 ---
 
-# 📌 **Overview**
+# **Overview**
 
 This project automates the entire data workflow behind the **Pausas Laborales (Active Breaks)** program at **Clínica Dávila**, transforming a manual attendance process into a **fully automated analytics system**.
 
