@@ -16,10 +16,10 @@ This project automates the entire data workflow behind the **Pausas Laborales (A
 
 You’ll find:
 
-- 🚀 A Python ETL that cleans, normalizes, deduplicates, and enriches participation data  
-- 📊 A Power BI dashboard for decision-making  
-- 🔁 A hybrid workflow that feeds clean data back into Google Sheets  
-- 📈 KPIs for total participation, building activity, and monthly trends  
+- A Python ETL that cleans, normalizes, deduplicates, and enriches participation data  
+- A Power BI dashboard for decision-making  
+- A hybrid workflow that feeds clean data back into Google Sheets  
+- KPIs for total participation, building activity, and monthly trends  
 
 ---
 
