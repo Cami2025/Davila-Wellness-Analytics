@@ -29,7 +29,7 @@ You’ll find:
   <img src="screenshots/architecture.png" width="600">
 </div>
 
-# ⚙️ **Key Features**
+# **Key Features**
 
 ### **1. Automated ETL Pipeline (Python)**
 - Connects to Google Sheets using **Service Account**  
@@ -43,7 +43,7 @@ You’ll find:
 
 ---
 
-### 📊 **2. Power BI Executive Dashboard**
+### **2. Power BI Executive Dashboard**
 
 Includes:
 
@@ -78,22 +78,22 @@ Includes:
 📁 davila-wellness-analytics/
 │
 ├── 📂 src/
-│   └── 🐍 pipeline_run.py
+│   └── pipeline_run.py
 │
 ├── 📂 screenshots/
-│   ├── 🖼️ dashboard.png
-│   ├── 🖼️ participaciones_edificio.png
-│   ├── 🖼️ participaciones_seccion.png
-│   └── 🖼️ tendencia_mensual.png
+│   ├── dashboard.png
+│   ├── participaciones_edificio.png
+│   ├── participaciones_seccion.png
+│   └── tendencia_mensual.png
 │
 ├── 📂 report/
-│   └── 📄 Davila_Wellness_Analytics.pdf
+│   └── Davila_Wellness_Analytics.pdf
 │
-├── 📄 requirements.txt
-└── 📄 README.md
+├── requirements.txt
+└── README.md
 
 
-# 🧠 **Tech Stack**
+# **Tech Stack**
 
 | Layer | Technology |
 |-------|------------|
@@ -105,9 +105,9 @@ Includes:
 
 ---
 
-# 🏃 **How to Run the ETL**
+# **How to Run the ETL**
 
-### 1️⃣ Clone the repo
+### Clone the repo
 ```bash
 git clone https://github.com/YOUR-USER/davila-wellness-analytics
 
