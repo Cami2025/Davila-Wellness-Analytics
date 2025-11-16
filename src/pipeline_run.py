@@ -162,7 +162,7 @@ def main():
     print("KPIs:", kpis)
 
     # 11) EXPORTAR TAMBIÉN A GOOGLE SHEETS (pestaña Asistencia_Limpia)
-    print("\n⏫ Exportando a pestaña 'Asistencia_Limpia' en Google Sheets...")
+    print("\nExportando a pestaña 'Asistencia_Limpia' en Google Sheets...")
     creds = Credentials.from_service_account_file(CREDENTIALS_FILE, scopes=SCOPES)
     gc = gspread.authorize(creds)
     sh = gc.open_by_key(SHEET_ID)
@@ -197,7 +197,7 @@ def main():
     ws.clear()
     ws.update(data)
 
-    print("✅ Datos actualizados en pestaña 'Asistencia_Limpia'.")
+    print("Datos actualizados en pestaña 'Asistencia_Limpia'.")
 
 if __name__ == "__main__":
     main()
