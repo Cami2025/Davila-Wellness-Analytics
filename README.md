@@ -72,21 +72,21 @@ Includes:
 
 </div>
 
-# 🗂️ **Repository Structure**
+# **Repository Structure**
 
 ```markdown
-📁 davila-wellness-analytics/
+davila-wellness-analytics/
 │
-├── 📂 src/
+├── src/
 │   └── pipeline_run.py
 │
-├── 📂 screenshots/
+├── screenshots/
 │   ├── dashboard.png
 │   ├── participaciones_edificio.png
 │   ├── participaciones_seccion.png
 │   └── tendencia_mensual.png
 │
-├── 📂 report/
+├── report/
 │   └── Davila_Wellness_Analytics.pdf
 │
 ├── requirements.txt
