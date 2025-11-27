@@ -1,3 +1,4 @@
+![Dashboard Banner](./images/banner.png)
 <div align="center">
 
 # **Dávila Wellness Analytics**  
