@@ -112,7 +112,16 @@ davila-wellness-analytics/
 ```bash
 git clone https://github.com/YOUR-USER/davila-wellness-analytics
 
----
+# Author
+Camila Álvarez
+Automation — People Analytics — Wellness Tech
+Clínica Dávila / ViveBienestar
+
+# Contact
+
+LinkedIn: www.linkedin.com/in/camilaalvareztafs
+
+Professional email: camiartificial2025@gmail.com
 
 
 
