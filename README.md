@@ -92,7 +92,7 @@ davila-wellness-analytics/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 # **Tech Stack**
 
@@ -111,7 +111,7 @@ davila-wellness-analytics/
 ### Clone the repo
 ```bash
 git clone https://github.com/YOUR-USER/davila-wellness-analytics
-
+```
 # Author
 Camila Álvarez
 Automation — People Analytics — Wellness Tech
