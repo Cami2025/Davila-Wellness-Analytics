@@ -5,7 +5,7 @@
 ### Automated Data Pipeline & Power BI Executive Dashboard  
 *(Google Sheets → Python ETL → Power BI)*  
 
-<img src="screenshots/Davila Wellness Analytics.pdf" width="800">
+<img src="screenshots/Davila Wellness Analytics.jpg" width="800">
 
 </div>
 
