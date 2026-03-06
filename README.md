@@ -57,7 +57,7 @@ Includes:
   - Participation by Building  
   - Top 10 Sections  
   - Monthly Trend Line  
-  - Filter controls: Mes, Edificio, Sección, Género  
+  - Filter controls: Month, Building, Section, Gender 
 
 - **Design**
   - Custom color palette  
