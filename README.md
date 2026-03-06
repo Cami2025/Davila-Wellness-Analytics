@@ -49,8 +49,9 @@ You’ll find:
 Includes:
 
 - **KPIs**
-  - Total Participaciones  
-  - Personas Únicas  
+  - Total Participations
+  - Unique Participants
+  - Average Participation Frequency
 
 - **Visuals**
   - Participation by Building  
